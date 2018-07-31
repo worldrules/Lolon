@@ -9,15 +9,7 @@
       "email": "worldrulesdev@gmail.com"
     }],
 
-    "autoload": {
 
-      "classmap": [
-
-        "classes"
-
-      ]
-
-    },
 
   "require": {
     "phpmailer/phpmailer": "6.0.x-dev",
